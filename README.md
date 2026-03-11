@@ -1,10 +1,10 @@
-Nexa To-Do List
+##Nexa To-Do List
 
 Nexa is a desktop to-do list application built with Python and Tkinter.
 
 The app helps users organize tasks in a simple and friendly interface with categories, priorities, and due dates.
 
-Features
+##Features
 - Add tasks with title, notes, priority, and date
 - Organize tasks by category
 - Sort tasks by priority
@@ -12,12 +12,12 @@ Features
 - Reset all tasks in a category
 - Simple multi-screen graphical interface
 
-Technologies
+##Technologies
 - Python
 - Tkinter
 - Object-Oriented Programming (OOP)
 
-Categories
+##Categories
 - Studies
 - Work
 - Home
